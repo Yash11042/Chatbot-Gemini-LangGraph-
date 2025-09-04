@@ -33,3 +33,11 @@ Streamlit
  ┣ 📜 requirements.txt  # Dependencies
  
  ┗ 📜 README.md         # Project documentation
+
+
+ ## 📸 Demo (Streamlit UI)
+
+Here’s how the chatbot looks in action:
+
+![Chatbot Demo](assets/demo.png)
+
